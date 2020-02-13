@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: MessageQueue
+Version: 1.0
+Summary: MessageQueue
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Apache2
+Description: MessageQueue
+Platform: UNKNOWN
+Classifier: Development Status :: Version 1.1
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.7

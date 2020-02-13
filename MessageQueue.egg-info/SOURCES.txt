@@ -1,0 +1,8 @@
+README.md
+setup.py
+MessageQueue/MessageQueue.py
+MessageQueue/__init__.py
+MessageQueue.egg-info/PKG-INFO
+MessageQueue.egg-info/SOURCES.txt
+MessageQueue.egg-info/dependency_links.txt
+MessageQueue.egg-info/top_level.txt
